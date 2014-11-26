@@ -4,7 +4,7 @@
     	<meta charset="utf-8">
     	
     	<!--<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">-->
-        <title>DopeCoin.com</title>
+        <title>DopeCoin - The Dopest Coin on the Planet!</title>
         
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         
@@ -30,8 +30,8 @@
             <ul id="mainnavi">
                 <li><a href="/">Home</a><i class="fa fa-circle"></i></li>
                 <li><a href="/information.php">Information</a><i class="fa fa-circle"></i></li>
-                <li><a href="/downloads.php">Resources</a><i class="fa fa-circle"></i></li>
-                <li><a href="//bitcointalk.org/index.php?topic=467641">Forum</a><i class="fa fa-circle"></i></li>
+                <li><a href="/resources.php">Resources</a><i class="fa fa-circle"></i></li>
+                <li><a href="http://bitcointalk.org/index.php?topic=467641.0">Forum</a><i class="fa fa-circle"></i></li>
                 <li><a href="/contributors.php">Contributors</a><i class="fa fa-circle"></i></li>
                 <li><a href="/contact.php">Contact</a></li>
             </ul>

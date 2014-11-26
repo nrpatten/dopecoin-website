@@ -12,20 +12,26 @@
                 specifically with the goal of providing a billion dollar industry 
                 with safer and faster way of doing business.</p>
                 
-                <h2>Specifications</h2>
-                <p>
-                    <ul>
-                        <li>Time to Block = 60 seconds </li>
-                        <li>Starting Value Per Block = 475 DOPE</li>
-                        <li>First Halving = 1 Year</li>
-                        <li>3 confirms per transaction.</li>
-                        <li>Total = 575,000,000 DOPE</li>
-                        <li>Block Retarget= 120 Blocks, After Block 5000 Every Block</li>
-                        <li>Scrypt Proof-of-Work</li>
-                        <li>Kimoto Gravity Well</li>
-                    </ul>
-                </p>
+                <p>In September 2014 DopeCoin went under new management and is being actively developed as DopeCoinV3. You can see the current plan what is being done on the <a href="https://bitcointalk.org/index.php?topic=467641.msg9266699#msg9266699">roadmap.</a></p>
+               
+                <p class="boldfont">DopeCoinV2 holders! You should immediately swap your coins to DopeCoinV3 as V2 is no longer supported! You can do on the <a href="/coin_swap.php">swap page</a>, active swap rate is 1:0,9.</p>
                 
+                <h2>Specifications</h2>
+                <p></p>
+                <p>
+                <ul>
+                        <li>Total = 200,000,000 DOPE</li>
+                        <li>Scrypt POW / POS (POW stage is over)</li>
+                        <li>Minimum Coin Age: 24 hours</li>
+                        <li>Maximum Coin Age: 42 days</li>
+                        <li>POS Interest:<br>
+                        10% year 1<br>
+                        8% year 2<br>
+                        4% year 3<br>
+                        2% year 4<br>
+                        1% year 5-6</li>
+                  </ul>
+                </p>
             </div>
             <div class="sidebar">
                 <div class="videoframe">
