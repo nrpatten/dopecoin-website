@@ -39,6 +39,12 @@
                      <source src="video/video_1.webm" type="video/webm" />
                      <source src="video/video_1.webm" type="video/ogg" />
                     </video>
+                    <div class="proofofdev">
+                        <h2>Proof Of Developer</h2>
+                        <a href="http://proofofdev.com/dope-dopecoin/">
+                         <img alt="Proof of Developer" src="http://proofofdev.com/wp-content/uploads/2014/11/ratingDOPE.jpg">
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>

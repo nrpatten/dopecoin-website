@@ -614,19 +614,19 @@ small {
 }
 
 .boldfont {
-font-weight: bold;
+    font-weight: bold;
 }
 
 .copyplace p {
-margin-top: 1em;
+    margin-top: 1em;
 }
 
 .exchanges {
-margin-top: -1em;
+    margin-top: -1em;
 }
 
 .exchanges td {
-vertical-align: middle;
+    vertical-align: middle;
 }
 
 .fullcenter .contentfull {
@@ -649,3 +649,24 @@ vertical-align: middle;
     margin: 0 auto;
 }
 
+.proofofdev {
+    width: 500px;
+    margin-top: 40px;
+}
+
+.proofofdev img {
+    width: 100%;
+}
+
+.welcome .proofofdev {
+    width: 400px;
+    margin: 0;
+    position: absolute;
+    right: -1px;
+    top: -1px;
+    z-index: 1000;
+}
+
+.welcome .proofofdev img {
+    width: 100%;
+}

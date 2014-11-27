@@ -2,6 +2,11 @@
 
     <div class="welcome">
         <img class="shadow" src="images/shadow.png" alt="shadow" />
+        <div class="proofofdev">
+            <a href="http://proofofdev.com/dope-dopecoin/">
+             <img src="http://proofofdev.com/wp-content/uploads/2014/11/ratingDOPE.jpg">
+            </a>
+        </div>
     </div>
 
     <div class="wrapper">
