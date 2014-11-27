@@ -24,6 +24,8 @@ $smarty = new Smarty();
 $smarty->template_dir = 'templates';
 $smarty->compile_dir = 'templates_c';
 
+$title = title;
+
 if(empty($_GET[page])) {
  $template="index.tpl";
  $smarty->assign('pagename', ' - Home');
@@ -32,39 +34,39 @@ $page = $_GET["page"];
 switch ($page) {
         case "home":
             $template="index.tpl";
-            $smarty->assign('pagename', ' - Home');
+            $smarty->assign('title', 'DopeCoin.com - Home - The Dopest Coin on the Planet!');
             break;
         case "information":
             $template="information.tpl";
-            $smarty->assign('pagename', ' - Information');
+            $smarty->assign('title', 'DopeCoin.com - Information');
             break;
         case "resources":
             $template="resources.tpl";
-            $smarty->assign('pagename', ' - Downloads');
+            $smarty->assign('title', 'DopeCoin.com - Resources');
             break;
         case "contributors":
             $template="contributors.tpl";
-            $smarty->assign('pagename', ' - Contributors');
+            $smarty->assign('title', 'DopeCoin.com - Contributors');
             break;
         case "contact":
             $template="contact.tpl";
-            $smarty->assign('pagename', ' - Contact');
+            $smarty->assign('title', 'DopeCoin.com - Contact');
             break;
         case "games":
             $template="games.tpl";
-            $smarty->assign('pagename', ' - Games');
+            $smarty->assign('title', 'DopeCoin.com - Games');
             break;
         case "miningpools":
             $template="miningpools.tpl";
-            $smarty->assign('pagename', ' - Miningpools');
+            $smarty->assign('title', 'DopeCoin.com - Miningpools');
             break;
         case "retailers":
             $template="retailers.tpl";
-            $smarty->assign('pagename', ' - Retailers');
+            $smarty->assign('title', 'DopeCoin.com - Retailers');
             break;
         case "exchanges":
             $template="exchanges.tpl";
-            $smarty->assign('pagename', ' - Exchanges');
+            $smarty->assign('title', 'DopeCoin.com - Exchanges');
             break;
         default:
             $template="index.tpl";
