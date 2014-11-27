@@ -9,7 +9,7 @@
                 <h1>Retailers</h1>
                 <p>Check out all of the amazing things that you can buy with your 
                 DopeCoins from retailers around the world! If you interested in accepting 
-                DopeCoins in your store make sure to <a href="/contact.php">Contact Us</a>.</p>
+                DopeCoins in your store make sure to <a href="/contact.php">contact us</a>.</p>
                 
                 <table>
                   <tr>

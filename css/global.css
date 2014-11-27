@@ -338,9 +338,16 @@ small {
     height: 135px;
     margin: 0;
 }
-.content .btn {
-    width: 300px;
+
+.content .buttons {
     margin: 0 auto;
+    overflow: hidden;
+}
+
+.content .btn {
+    width: 250px;
+    float: left;
+    margin-left: 18px;
 }
 
 .videoframe {
@@ -414,7 +421,7 @@ small {
 
 .copyplace {
     float: left;
-    width: 390px;
+    width: 610px;
 }
 
 .mininTut {
@@ -606,17 +613,39 @@ small {
   color: #78a15c;
 }
 
+.boldfont {
+font-weight: bold;
+}
 
+.copyplace p {
+margin-top: 1em;
+}
 
+.exchanges {
+margin-top: -1em;
+}
 
+.exchanges td {
+vertical-align: middle;
+}
 
-
-
-
-
-
-
-
-
-
+.fullcenter .contentfull {
+    padding: 15px;   
+    margin: -20px 20px 20px 0;
+    float: left;
+    background: #edf3ec;
+    text-align: center;
+}
+.fullcenter .contentfull h2 {
+    font-size: 36px;
+    font-weight: 300;
+    margin: 10px 0 30px;
+}
+.fullcenter .contentfull p {
+    margin: 1em 0 1em;
+}
+.contentfull .btn {
+    width: 250px;
+    margin: 0 auto;
+}
 
