@@ -24,7 +24,7 @@ $smarty = new Smarty();
 $smarty->template_dir = 'templates';
 $smarty->compile_dir = 'templates_c';
 
-$title = title;
+$title = 'title';
 
 if(empty($_GET[page])) {
  $template="index.tpl";

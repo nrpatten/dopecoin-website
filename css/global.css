@@ -662,7 +662,7 @@ small {
     width: 400px;
     margin: 0;
     position: absolute;
-    right: -1px;
+    right: 0px;
     top: -1px;
     z-index: 1000;
 }
