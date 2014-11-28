@@ -4,7 +4,7 @@
     	<meta charset="utf-8">
         
         <meta name="robots" content="noindex, nofollow" />
-        <meta name="keywords" content=”DopeCoin is a cryptocurrency that enables instant payments to anyone in the world." />
+        <meta name="keywords" content="DopeCoin is a cryptocurrency that enables instant payments to anyone in the world." />
     	<!--<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">-->
         <title>{$title|default:"DopeCoin.com - Home - The Dopest Coin on the Planet!"}</title>
         
